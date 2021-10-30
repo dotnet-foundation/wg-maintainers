@@ -1,6 +1,6 @@
 ---
 name: Suggestion
-about: Suggestion for the Outreach team
+about: Suggestion for the Project Maintainers' Group
 labels: suggestions
 assignees: prouse
 ---

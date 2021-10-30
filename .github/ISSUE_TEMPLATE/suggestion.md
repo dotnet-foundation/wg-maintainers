@@ -2,5 +2,7 @@
 name: Suggestion
 about: Suggestion for the Project Maintainers' Group
 labels: suggestions
-assignees: prouse
+assignees:
+  - rprouse
+  - devlead 
 ---

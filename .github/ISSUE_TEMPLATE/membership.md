@@ -2,7 +2,9 @@
 name: Membership
 about: Apply for membership in the Maintainers' Working Group
 labels: membership
-assignees: rprouse
+assignees:
+  - rprouse
+  - devlead 
 ---
 
 ## Name:

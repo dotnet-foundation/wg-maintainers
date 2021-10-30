@@ -2,7 +2,9 @@
 name: Proposal
 about: Proposal for the Maintainers' Working Group
 labels: proposals
-assignees: rprouse
+assignees:
+  - rprouse
+  - devlead 
 ---
 
 ## Title:

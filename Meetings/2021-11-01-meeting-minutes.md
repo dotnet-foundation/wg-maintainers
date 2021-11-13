@@ -19,7 +19,7 @@
 - Tanner Gooding
 - Tony Qu
 - Rob Mensching
-
+- Daniel Valadas @valadas 
 ## Recording
 
 **TBD**

@@ -74,7 +74,7 @@ The projects committee handles approval of projects joining the foundation, onbo
 - A go/no-go poll of maintainers for new project requirements and recommendations
 - Documenting and educating maintainers on why policies are important
 - [Library Guidance](https://docs.microsoft.com/en-us/dotnet/standard/library-guidance/) was created by James. We could use as a basis of our best practices and expand?
-- Project committee does not onboard a project, that is a gap in support
+- Project committee does not onboard a project, it only recommends which ones should be onboarded. There is a gap in support.
 - Why should a project join the foundation? Here is what you gain and here is what you lose.
 - Who is responsible for implementing and enforcing policy?
 - Can we build a community of maintainers and members? What does that look like?

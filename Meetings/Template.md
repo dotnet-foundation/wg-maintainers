@@ -9,7 +9,7 @@
 - C. Augusto Proiete
 - Calvin A. Allan
 - Dan Siegel
-- Daniel Valadas
+- Daniel Valadas @valadas 
 - Gutemberg Ribeiro
 - Gary Ewan Park
 - Geoffrey Huntley

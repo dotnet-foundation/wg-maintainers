@@ -21,7 +21,7 @@ This committee meets at 21:00 UTC on the second Wednesday of every month. All co
 - C. Augusto Proiete
 - Calvin A. Allan
 - Dan Siegel
-- Daniel Valadas
+- Daniel Valadas @valadas 
 - Gutemberg Ribeiro
 - Gary Ewan Park
 - Geoffrey Huntley

@@ -2,30 +2,30 @@
 
 ## Meeting Attendees
 
-- Rob Prouse
-- Mattias Karlsson
-- Andrew White
-- Allan Ritchie
-- C. Augusto Proiete
-- Calvin A. Allan
-- Dan Siegel
-- Daniel Valadas @valadas 
-- Gutemberg Ribeiro
-- Gary Ewan Park
-- Geoffrey Huntley
+- Rob Prouse - @rprouse
+- Mattias Karlsson - @devlead
+- Andrew White - @AndrewTriesToCode
+- Allan Ritchie - @aritchie
+- C. Augusto Proiete - @augustoproiete
+- Calvin A. Allan - @CalvinAllen
+- Dan Siegel - @dansiegel
+- Daniel Valadas - @valadas 
+- Gutemberg Ribeiro - @galvesribeiro
+- Gary Ewan Park - @gep13
+- Geoffrey Huntley - @ghuntley
 - Glenn Watson
-- James Newton-King
-- James Turner
-- Jeremy Skinner
-- Matthias Koch
+- James Newton-King - @JamesNK
+- James Turner - @Turnerj
+- Jeremy Skinner - @JeremySkinner
+- Matthias Koch - @matkoch
 - Mitchel Sellers
-- Nils Andresen
-- Pascal Berger
-- Dylan Perks
-- Simon Cropp
-- Tanner Gooding
-- Tomáš Herceg
-- Tony Qu
+- Nils Andresen - @nils-a
+- Pascal Berger - @pascalberger
+- Dylan Perks - @Perksey
+- Simon Cropp - @SimonCropp
+- Tanner Gooding - @tannergooding
+- Tomáš Herceg - @tomasherceg
+- Tony Qu - @tonyqus
 
 ## Recording
 

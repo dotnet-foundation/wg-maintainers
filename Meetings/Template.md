@@ -9,19 +9,19 @@
 - C. Augusto Proiete - @augustoproiete
 - Calvin A. Allan - @CalvinAllen
 - Dan Siegel - @dansiegel
-- Daniel Valadas - @valadas 
+- Daniel Valadas - @valadas
+- Dylan Perks - @Perksey
 - Gutemberg Ribeiro - @galvesribeiro
 - Gary Ewan Park - @gep13
 - Geoffrey Huntley - @ghuntley
-- Glenn Watson
+- Glenn Watson - @glennawatson
 - James Newton-King - @JamesNK
 - James Turner - @Turnerj
 - Jeremy Skinner - @JeremySkinner
 - Matthias Koch - @matkoch
-- Mitchel Sellers - @mitchelsellers 
+- Mitchel Sellers - @mitchelsellers
 - Nils Andresen - @nils-a
 - Pascal Berger - @pascalberger
-- Dylan Perks - @Perksey
 - Simon Cropp - @SimonCropp
 - Tanner Gooding - @tannergooding
 - Tomáš Herceg - @tomasherceg

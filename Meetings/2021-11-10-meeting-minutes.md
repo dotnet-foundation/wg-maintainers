@@ -2,24 +2,24 @@
 
 ## Meeting Attendees
 
-- Rob Prouse
-- Mattias Karlsson
-- Andrew White
-- Calvin A. Allan
-- Dan Siegel
-- Dylan Perks
-- Gary Ewan Park
-- Glenn Watson
-- James Newton-King
-- James Turner
-- Matthias Koch
-- Nils Andresen
-- Pascal Berger
-- Simon Cropp
-- Tanner Gooding
-- Tony Qu
-- Rob Mensching
-- Daniel Valadas @valadas 
+- Rob Prouse - @rprouse
+- Mattias Karlsson - @devlead
+- Andrew White - @AndrewTriesToCode
+- Calvin A. Allan - @CalvinAllen
+- Dan Siegel - @dansiegel
+- Daniel Valadas @valadas
+- Dylan Perks - @Perksey
+- Gary Ewan Park - @gep13
+- James Newton-King - @JamesNK
+- James Turner - @Turnerj
+- Matthias Koch - @matkoch
+- Nils Andresen - @nils-a
+- Pascal Berger - @pascalberger
+- Rob Mensching - @robmen
+- Simon Cropp - @SimonCropp
+- Tanner Gooding - @tannergooding
+- Tony Qu - @tonyqus
+
 ## Recording
 
 **TBD**

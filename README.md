@@ -21,11 +21,11 @@ This committee meets at 21:00 UTC on the second Wednesday of every month. All co
 - C. Augusto Proiete - @augustoproiete
 - Calvin A. Allan - @CalvinAllen
 - Dan Siegel - @dansiegel
-- Daniel Valadas - @valadas 
+- Daniel Valadas - @valadas
 - Gutemberg Ribeiro - @galvesribeiro
 - Gary Ewan Park - @gep13
 - Geoffrey Huntley - @ghuntley
-- Glenn Watson
+- Glenn Watson - @glennawatson
 - James Newton-King - @JamesNK
 - James Turner - @Turnerj
 - Jeremy Skinner - @JeremySkinner

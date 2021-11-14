@@ -18,7 +18,7 @@
 - James Turner - @Turnerj
 - Jeremy Skinner - @JeremySkinner
 - Matthias Koch - @matkoch
-- Mitchel Sellers
+- Mitchel Sellers - @mitchelsellers 
 - Nils Andresen - @nils-a
 - Pascal Berger - @pascalberger
 - Dylan Perks - @Perksey

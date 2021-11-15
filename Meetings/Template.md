@@ -7,7 +7,7 @@
 - Andrew White - @AndrewTriesToCode
 - Allan Ritchie - @aritchie
 - C. Augusto Proiete - @augustoproiete
-- Calvin A. Allan - @CalvinAllen
+- Calvin A. Allen - @CalvinAllen
 - Dan Siegel - @dansiegel
 - Daniel Valadas - @valadas
 - Dylan Perks - @Perksey

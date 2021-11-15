@@ -5,7 +5,7 @@
 - Rob Prouse - @rprouse
 - Mattias Karlsson - @devlead
 - Andrew White - @AndrewTriesToCode
-- Calvin A. Allan - @CalvinAllen
+- Calvin A. Allen - @CalvinAllen
 - Dan Siegel - @dansiegel
 - Daniel Valadas @valadas
 - Dylan Perks - @Perksey

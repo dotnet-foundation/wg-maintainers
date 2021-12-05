@@ -12,6 +12,8 @@ This committee meets at 21:00 UTC on the second Wednesday of every month. All co
 
 [Click here to join the meeting in Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWU3OWVmMjYtYzZjOS00ODhlLWI3NDYtOTdiNmQ1YTgxYTA0%40thread.v2/0?context=%7b%22Tid%22%3a%2262f8c8c7-a85b-41d1-ba6b-743495fb8a48%22%2c%22Oid%22%3a%2223d27343-1f69-4338-90ca-b310792a3e5d%22%7d)
 
+[Click here to get the ICS](./Meetings/Meeting.ics)
+
 ## Committee Members
 
 - Rob Prouse (Co-Chair) - @rprouse

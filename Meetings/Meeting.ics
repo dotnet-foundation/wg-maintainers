@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:-0000
+TZOFFSETTO:-0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20211129T082158Z
+DESCRIPTION:This committee meets at 21:00 UTC on the second Wednesday of ev
+	ery month. All community members are welcome to attend.\n \nClick here to 
+	join the meeting in Teams: https://teams.microsoft.com/l/meetup-join/19%3a
+	meeting_OWU3OWVmMjYtYzZjOS00ODhlLWI3NDYtOTdiNmQ1YTgxYTA0%40thread.v2/0?con
+	text=%7b%22Tid%22%3a%2262f8c8c7-a85b-41d1-ba6b-743495fb8a48%22%2c%22Oid%22
+	%3a%2223d27343-1f69-4338-90ca-b310792a3e5d%22%7d \n
+DTEND;TZID=UTC:20211208T220000
+DTSTAMP:20211129T082158Z
+DTSTART;TZID=UTC:20211208T210000
+LAST-MODIFIED:20211129T082158Z
+LOCATION:Teams
+PRIORITY:5
+RRULE:FREQ=MONTHLY;BYDAY=WE;BYSETPOS=2
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-de:Project Maintainers' Working Group
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000305F227902E5D701000000000000000
+	010000000B5FEDAD539A93F44854DA7506316E46C
+X-ALT-DESC;FMTTYPE=text/html:<html><head></head><body lang=EN-US link="#0563C1"
+	vlink="#954F72" style='word-wrap:break-word'><h2>This committee meets at 
+	21:00 UTC on the second Wednesday of every month.</h2><h3>All community 
+	members are welcome to attend.</h3>
+	<div><p class=MsoNormal><span style='color:#5F5F5F'>______________________
+	__________________________________________________________</span> </p><
+	/div><div><div style='margin-top:.25in\;margin-bottom:15.0pt'><p class=Mso
+	Normal><span style='font-size:18.0pt\;font-family:"Segoe UI"\,sans-serif\;
+	color:#252424'>Microsoft Teams meeting</span><span style='font-family:"Seg
+	oe UI"\,sans-serif\;color:#252424'> </span></p></div><div style
+	='margin-bottom:15.0pt'><div><p class=MsoNormal><b><span style='font-size:
+	10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'>Join on your co
+	mputer or mobile app</span></b><b><span style='font-family:"Segoe UI"\,san
+	s-serif\;color:#252424'> </span></b></p></div><p class=MsoNorma
+	l><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'><a href=
+	"https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDljNDcxZjAtY2FkYi
+	00ZTVmLWIzNjktMmVjMzZlYzUxYzJh%40thread.v2/0?context=%7b%22Tid%22%3a%2262f
+	8c8c7-a85b-41d1-ba6b-743495fb8a48%22%2c%22Oid%22%3a%2223d27343-1f69-4338-9
+	0ca-b310792a3e5d%22%7d" target="_blank"><span style='font-size:10.5pt\;fon
+	t-family:"Segoe UI Semibold"\,sans-serif\;color:#6264A7'>Click here to joi
+	n the meeting</span></a> </span></p></div><div style='margin-to
+	p:15.0pt\;margin-bottom:.25in'></div></div><div><p class=MsoNormal><s
+	pan style='color:#5F5F5F'>________________________________________________
+	________________________________</span> </p></div><p class=MsoN
+	ormal></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

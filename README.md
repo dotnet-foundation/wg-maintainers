@@ -40,3 +40,4 @@ This committee meets at 21:00 UTC on the second Wednesday of every month. All co
 - Tanner Gooding - @tannergooding
 - Tomáš Herceg - @tomasherceg
 - Tony Qu - @tonyqus
+- SeanKilleen - Github [@SeanKilleen](https://github.com/SeanKilleen), Twitter [@sjkilleen](https://twitter.com/sjkilleen)

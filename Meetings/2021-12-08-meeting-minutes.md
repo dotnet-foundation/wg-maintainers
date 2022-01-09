@@ -31,7 +31,7 @@
 ### Process for Leaving the Foundation
 
 - Reviewed the process to leave the Foundation as posted in the [GitHub discussion](https://github.com/dotnet-foundation/Home/discussions/68#discussioncomment-1774246).
-- After all comments have been reviewed, the board will meet with the lawyers to reverse the contracts that have been put in place, the board will work with the projects individually that have sent notices to leave.
+- After all comments have been reviewed, the board will meet with the lawyers to reverse the contracts of the projects that have sent notices to leave. The board will work with each of the aforementioned projects individually.
 - Question was raised, "What if the original maintainers are no longer available?"
 - Existing projects should have a paper trail of who their maintainers are.
 - We need to expand on our messaging around why the original signatories must be involved.

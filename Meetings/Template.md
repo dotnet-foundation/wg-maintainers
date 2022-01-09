@@ -34,6 +34,7 @@
 
 - Nadeem Abutaa
 - Tom Pappas
+- Nicole Miller
 
 ## Slides
 

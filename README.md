@@ -43,3 +43,4 @@ This committee meets at 21:00 UTC on the second Wednesday of every month. All co
 - SeanKilleen - Github [@SeanKilleen](https://github.com/SeanKilleen), Twitter [@sjkilleen](https://twitter.com/sjkilleen)
 - Aaron LaBeau - @biozal 
 - Alper EBICOGLU - @ebicoglu 
+- AliReza Sabouri - Github [@alirezanet](https://github.com/alirezanet), Twitter [@alirezanett](https://twitter.com/alirezanett)

@@ -19,7 +19,7 @@ This committee meets at 21:00 UTC on the second Wednesday of every month. All co
 - Aaron LaBeau - @biozal
 - AliReza Sabouri - Github [@alirezanet](https://github.com/alirezanet), Twitter [@alirezanett](https://twitter.com/alirezanett)
 - Allan Ritchie - @aritchie
-- Alper EBICOGLU - @ebicoglu
+- Alper Ebicoglu - @ebicoglu
 - Andrew White - @AndrewTriesToCode
 - C. Augusto Proiete - @augustoproiete
 - Calvin A. Allen - @CalvinAllen

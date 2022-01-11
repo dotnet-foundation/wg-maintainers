@@ -27,6 +27,7 @@ This committee meets at 21:00 UTC on the second Wednesday of every month. All co
 - Daniel Valadas - @valadas
 - Dylan Perks - @Perksey
 - Enis Necipoglu - [@enisn](https://github.com/enisn)
+- Furkan Güngör - [@furkandeveloper](https://github.com/furkandeveloper) 
 - Gary Ewan Park - @gep13
 - Geoffrey Huntley - @ghuntley
 - Glenn Watson - @glennawatson
@@ -45,3 +46,4 @@ This committee meets at 21:00 UTC on the second Wednesday of every month. All co
 - Tanner Gooding - @tannergooding
 - Tomáš Herceg - @tomasherceg
 - Tony Qu - @tonyqus
+

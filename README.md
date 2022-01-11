@@ -26,6 +26,7 @@ This committee meets at 21:00 UTC on the second Wednesday of every month. All co
 - Dan Siegel - @dansiegel
 - Daniel Valadas - @valadas
 - Dylan Perks - @Perksey
+- Enis Necipoglu - [@enisn](https://github.com/enisn)
 - Gary Ewan Park - @gep13
 - Geoffrey Huntley - @ghuntley
 - Glenn Watson - @glennawatson

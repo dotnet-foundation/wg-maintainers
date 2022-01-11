@@ -14,33 +14,36 @@ This committee meets at 21:00 UTC on the second Wednesday of every month. All co
 
 [Click here to get the ICS](./Meetings/Meeting.ics)
 
-## Committee Members
+## Committee Members (name order)
 
-- Rob Prouse (Co-Chair) - @rprouse
-- Mattias Karlsson (Co-Chair) - @devlead
-- Andrew White - @AndrewTriesToCode
+- Aaron LaBeau - @biozal
+- AliReza Sabouri - Github [@alirezanet](https://github.com/alirezanet), Twitter [@alirezanett](https://twitter.com/alirezanett)
 - Allan Ritchie - @aritchie
+- Alper Ebicoglu - @ebicoglu
+- Andrew White - @AndrewTriesToCode
 - C. Augusto Proiete - @augustoproiete
 - Calvin A. Allen - @CalvinAllen
 - Dan Siegel - @dansiegel
 - Daniel Valadas - @valadas
-- Gutemberg Ribeiro - @galvesribeiro
+- Dylan Perks - @Perksey
+- Enis Necipoglu - [@enisn](https://github.com/enisn)
+- Furkan GUNGOR - [@furkandeveloper](https://github.com/furkandeveloper) 
 - Gary Ewan Park - @gep13
 - Geoffrey Huntley - @ghuntley
 - Glenn Watson - @glennawatson
+- Gutemberg Ribeiro - @galvesribeiro
 - James Newton-King - @JamesNK
 - James Turner - @Turnerj
 - Jeremy Skinner - @JeremySkinner
 - Matthias Koch - @matkoch
+- Mattias Karlsson (Co-Chair) - @devlead
 - Mitchel Sellers
 - Nils Andresen - @nils-a
 - Pascal Berger - @pascalberger
-- Dylan Perks - @Perksey
+- Rob Prouse (Co-Chair) - @rprouse
+- SeanKilleen - Github [@SeanKilleen](https://github.com/SeanKilleen), Twitter [@sjkilleen](https://twitter.com/sjkilleen)
 - Simon Cropp - @SimonCropp
 - Tanner Gooding - @tannergooding
 - Tomáš Herceg - @tomasherceg
 - Tony Qu - @tonyqus
-- SeanKilleen - Github [@SeanKilleen](https://github.com/SeanKilleen), Twitter [@sjkilleen](https://twitter.com/sjkilleen)
-- Aaron LaBeau - @biozal
-- Furkan GUNGOR - [@furkandeveloper](https://github.com/furkandeveloper) 
-- AliReza Sabouri - Github [@alirezanet](https://github.com/alirezanet), Twitter [@alirezanett](https://twitter.com/alirezanett)
+

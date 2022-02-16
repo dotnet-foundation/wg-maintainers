@@ -13,6 +13,7 @@
 - Nils Andresen - @nils-a
 - Pascal Berger - @pascalberger
 - Sean Killeen - @SeanKilleen
+- Simon Cropp - @simoncropp
 - Tony Qu - @tonyqus
 
 ## Recording

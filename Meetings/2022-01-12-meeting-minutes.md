@@ -14,6 +14,7 @@
 - Pascal Berger - @pascalberger
 - Sean Killeen - @SeanKilleen
 - Simon Cropp - @simoncropp
+- Tanner Gooding - @tannergooding 
 - Tony Qu - @tonyqus
 
 ## Recording

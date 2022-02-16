@@ -5,6 +5,7 @@
 - Calvin A. Allen - @CalvinAllen
 - Dan Siegel - @dansiegel
 - Dylan Perks - @Perksey 
+- Glenn Watson - @glennawatson
 - James Newton-King - @JamesNK
 - James Turner - @Turnerj
 - Mattias Karlsson - @devlead

@@ -36,6 +36,7 @@ This committee meets at 21:00 UTC on the second Wednesday of every month. All co
 - Nils Andresen - @nils-a
 - Pascal Berger - @pascalberger
 - Rob Prouse (Co-Chair) - @rprouse
+- Robin Krom - Github [@Lakritzator](https://github.com/Lakritzator), Twitter [@lakritzator](https://twitter.com/lakritzator)
 - SeanKilleen - Github [@SeanKilleen](https://github.com/SeanKilleen), Twitter [@sjkilleen](https://twitter.com/sjkilleen)
 - Simon Cropp - @SimonCropp
 - Tanner Gooding - @tannergooding

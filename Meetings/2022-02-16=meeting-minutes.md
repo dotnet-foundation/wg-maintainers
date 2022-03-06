@@ -9,9 +9,9 @@
 - Glenn Watson - @glennawatson
 - James Newton-King - @JamesNK
 - James Turner - @Turnerj
-- Michael Hawker
+- Michael Hawker - @michael-hawker
 - Pascal Berger - @pascalberger
-- Robin Krom
+- Robin Krom - @Lakritzator
 - Tanner Gooding - @tannergooding
 
 ## Recording

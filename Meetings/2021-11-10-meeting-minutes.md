@@ -22,7 +22,7 @@
 
 ## Recording
 
-**TBD**
+[2021-11-10 Meeting Recording](https://dotnetfoundation-my.sharepoint.com/:v:/g/personal/rob_prouse_dotnetfoundation_org/ESW8hrlAzyNDtnjPcaj-x-gBPL_XLG-BBvkI4JH6Y9lYYQ?e=GaRc66)
 
 ## Agenda
 

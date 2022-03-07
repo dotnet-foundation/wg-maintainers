@@ -32,6 +32,8 @@
 
 ## Recording
 
+[yyyy-mm-dd Meeting Recording]()
+
 ### Virtual Inc Staff Observers
 
 - Nadeem Abutaa

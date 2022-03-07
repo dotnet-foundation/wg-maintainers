@@ -13,7 +13,7 @@
 
 ## Recording
 
-**TBD**
+[2021-12-08 Meeting Recording](https://dotnetfoundation-my.sharepoint.com/:v:/g/personal/rob_prouse_dotnetfoundation_org/EY43JJ8V8w1LvEAvlA1Pt44BSawK2QTBao5TLYaMwGdV4A?e=Ob2j8A)
 
 ### Virtual Inc Staff Observers
 

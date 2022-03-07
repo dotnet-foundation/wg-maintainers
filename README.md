@@ -32,7 +32,8 @@ This committee meets at 21:00 UTC on the second Wednesday of every month. All co
 - Jeremy Skinner - @JeremySkinner
 - Matthias Koch - @matkoch
 - Mattias Karlsson (Co-Chair) - @devlead
-- Mitchel Sellers
+- Michael Hawker - @michael-hawker
+- Mitchel Sellers - @mitchelsellers
 - Nils Andresen - @nils-a
 - Pascal Berger - @pascalberger
 - Rob Prouse (Co-Chair) - @rprouse

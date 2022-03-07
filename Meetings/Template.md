@@ -19,9 +19,11 @@
 - James Turner - @Turnerj
 - Jeremy Skinner - @JeremySkinner
 - Matthias Koch - @matkoch
+- Michael Hawker - @michael-hawker
 - Mitchel Sellers - @mitchelsellers
 - Nils Andresen - @nils-a
 - Pascal Berger - @pascalberger
+- Robin Krom - @Lakritzator
 - Simon Cropp - @SimonCropp
 - Tanner Gooding - @tannergooding
 - Tomáš Herceg - @tomasherceg

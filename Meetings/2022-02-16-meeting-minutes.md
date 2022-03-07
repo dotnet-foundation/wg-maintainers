@@ -16,7 +16,7 @@
 
 ## Recording
 
-**TBD**
+[2022-02-16 Meeting Recording](https://dotnetfoundation-my.sharepoint.com/:v:/g/personal/rob_prouse_dotnetfoundation_org/ERjxkEaTmpZLiRL7_fwXMKwB3aioi4OX26QwOG2eaLswyg?e=QMz63d)
 
 ### Virtual Inc Staff Observers
 

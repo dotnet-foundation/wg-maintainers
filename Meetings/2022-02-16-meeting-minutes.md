@@ -48,7 +48,7 @@
   - The original maintainers may not be available due to backpacking or other travel which is also another consideration.
   - Can we clarify that it is the non-revokable clause that is preventing us from reassigning the rights of the project and add that to the FAQ?
   - Forking the project and the foundation not continuing to maintain it is an option to leave the foundation.
-  - Is four weeks notice appropriate? The four week notice could be read only and we don't need to illicit feedback.
+  - Is four weeks notice appropriate? The four week notice could be read only and we don't need to elicit feedback.
   - One comment is that the .NET Foundation has been criticized for not communicating and a project leaving might be considered to be a big change
   - The four week notice gives the perception that the community has influence in the process
   - Would the .NET Foundation remove a maintainer if they were negatively impacting a project? By this I mean, if one was to remove major features of a project because they don't want it as part of the codebase anymore, would the Foundation step in?

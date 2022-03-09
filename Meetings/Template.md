@@ -15,6 +15,7 @@
 - Gary Ewan Park - @gep13
 - Geoffrey Huntley - @ghuntley
 - Glenn Watson - @glennawatson
+- Halil İbrahim Kalkan @hikalkan
 - James Newton-King - @JamesNK
 - James Turner - @Turnerj
 - Jeremy Skinner - @JeremySkinner
@@ -36,7 +37,6 @@
 
 ### Virtual Inc Staff Observers
 
-- Nadeem Abutaa
 - Tom Pappas
 - Nicole Miller
 

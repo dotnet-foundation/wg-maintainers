@@ -27,7 +27,7 @@ This committee meets at 21:00 UTC on the second Wednesday of every month. All co
 - Geoffrey Huntley - @ghuntley
 - Glenn Watson - @glennawatson
 - Gutemberg Ribeiro - @galvesribeiro
-- Halil İbrahim Kalkan @hikalkan
+- Halil İbrahim Kalkan - @hikalkan
 - James Newton-King - @JamesNK
 - James Turner - @Turnerj
 - Jeremy Skinner - @JeremySkinner

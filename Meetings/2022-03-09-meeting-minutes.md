@@ -38,14 +38,14 @@
 - Reviewed previous meeting minutes
 - Process for leaving the foundation
   - Board has voted to approve the process to leave the Foundation
-  - Tom Pappas met with the lawyers to review the process and to review the agreements that we will use going forward.
+  - Tom Pappas met with the lawyers to review the process and to review the agreements that we will use going forward. Tom also spoke to the lawyers about making the joining process clearer as well right
   - We should put forward an FAQ for each agreement for joining the foundation
   - Project committee will then review, then go to the Executive Committee an the Board
   - Hoping to start July 1 with the new agreements and a clearer process for projects joining the foundation.
 - Want to have a joint meeting of the maintainers and project committees to help define our roles.
 - Project benefits PR, is being worked on and moving forward
 - Tom Pappas took the role of Executing Director Feb 1, will be announced in the next newsletter
-- Brief discussion about the probationary committee membership
+- Brief discussion about the probationary committee membership. It was mentioned that no social media information would be exposed until active participants in the DNF maintainers committee.
 - Talk about how we can provide better guidance to maintainers from this thread as well: [Centralised information for .NET Foundation operation](https://github.com/dotnet-foundation/Home/discussions/61)
   - We are starting to work on this from the board
   - Tom Pappas wants to inventory the requests so that we can show sponsors what the Foundation does for projects
@@ -58,8 +58,8 @@
   - Will reinstate all banned members
   - Bans will be per org
   - Email that was sent out announcing organization wide bans was confusing. Need to make it clearer and possibly add an FAQ.
-  - Ban list could be considered a shame list.
-  - Attempting to remove all requirements for the dnfadmin account and switch to GitHub Actions
+  - Ban list could be considered a shame list, possibly has privacy laws implications if shared amongst all member projects that would need to be explored.
+  - Attempting to remove all requirements for the dnfadmin account and switch to GitHub Actions, the dnfadmin account would be reserved only for "break glass" scenarios.
   - Exclusions for the CLA bots are difficult. An action that could be configured would be better.
   - A suite of GitHub Actions published by the Foundation would be good.
   - Dnfadmin account is currently only used for the CLA and CoC. CoC will be changed.

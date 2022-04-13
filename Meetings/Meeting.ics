@@ -1,67 +1,150 @@
 BEGIN:VCALENDAR
 PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
 VERSION:2.0
-METHOD:PUBLISH
+METHOD:REQUEST
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VTIMEZONE
-TZID:UTC
+TZID:Central Standard Time
 BEGIN:STANDARD
-DTSTART:16010101T000000
-TZOFFSETFROM:-0000
-TZOFFSETTO:-0000
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
 END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+ATTENDEE;CN="Madison Hardy";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Rob Prouse (.NET Foundation)";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Mattias Karlsson (.NET Foundation)";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Tom Pappas (.NET Foundation)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:i
+	nvalid:nomail
+ATTENDEE;CN="Madison Hardy";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:MHardy@vi
+	rtualinc.com
 CLASS:PUBLIC
-CREATED:20211129T082158Z
-DESCRIPTION:This committee meets at 21:00 UTC on the second Wednesday of ev
-	ery month. All community members are welcome to attend.\n \nClick here to 
-	join the meeting in Teams: https://teams.microsoft.com/l/meetup-join/19%3a
-	meeting_OWU3OWVmMjYtYzZjOS00ODhlLWI3NDYtOTdiNmQ1YTgxYTA0%40thread.v2/0?con
-	text=%7b%22Tid%22%3a%2262f8c8c7-a85b-41d1-ba6b-743495fb8a48%22%2c%22Oid%22
-	%3a%2223d27343-1f69-4338-90ca-b310792a3e5d%22%7d \n
-DTEND;TZID=UTC:20211208T220000
-DTSTAMP:20211129T082158Z
-DTSTART;TZID=UTC:20211208T210000
-LAST-MODIFIED:20211129T082158Z
-LOCATION:Teams
+CREATED:20220408T144234Z
+DESCRIPTION:.NET Maintainers Committee\n\n \n\nOccurs the second Wednesday 
+	of each month from 5:00PM to 6:PM EST (9PM UTC)\n\n \n\nPlease disregard/d
+	elete any other iteration of this meeting moving forward\n\n \n\n_________
+	_______________________________________________________________________ \n
+	\nMicrosoft Teams meeting \n\nJoin on your computer or mobile app \n\nClic
+	k here to join the meeting <https://teams.microsoft.com/l/meetup-join/19%3
+	ameeting_ZGU5NWZjYTItOTFiZi00OWQyLWExYTItMWQ4ZWM0YzhlZTA4%40thread.v2/0?co
+	ntext=%7b%22Tid%22%3a%22f0bdbbf2-cd76-4967-8c4c-50a802746912%22%2c%22Oid%2
+	2%3a%2233e33123-f641-455f-8467-58a715c2da80%22%7d>  \n\nOr call in (audio 
+	only) \n\n+1 978-746-6057\,\,580849884# <tel:+19787466057\,\,580849884#>  
+	  United States\, Lowell \n\nPhone Conference ID: 580 849 884# \n\nFind a 
+	local number <https://dialin.teams.microsoft.com/e8373667-7b2c-45e6-90f5-7
+	5a31c2d6ee0?id=580849884>  | Reset PIN <https://mysettings.lync.com/pstnco
+	nferencing>  \n\nLearn More <https://aka.ms/JoinTeamsMeeting>  | Meeting o
+	ptions <https://teams.microsoft.com/meetingOptions/?organizerId=33e33123-f
+	641-455f-8467-58a715c2da80&tenantId=f0bdbbf2-cd76-4967-8c4c-50a802746912&t
+	hreadId=19_meeting_ZGU5NWZjYTItOTFiZi00OWQyLWExYTItMWQ4ZWM0YzhlZTA4@thread
+	.v2&messageId=0&language=en-US>  \n\n_____________________________________
+	___________________________________________ \n\n \n\n
+DTEND;TZID="Central Standard Time":20220413T163000
+DTSTAMP:20220407T172417Z
+DTSTART;TZID="Central Standard Time":20220413T160000
+LAST-MODIFIED:20220408T144234Z
+LOCATION:Microsoft Teams Meeting
+ORGANIZER;CN="Madison Hardy":invalid:nomail
 PRIORITY:5
-RRULE:FREQ=MONTHLY;BYDAY=WE;BYSETPOS=2
+RRULE:FREQ=MONTHLY;COUNT=22;BYDAY=WE;BYSETPOS=2
 SEQUENCE:0
-SUMMARY;LANGUAGE=en-de:Project Maintainers' Working Group
+SUMMARY:.NET Maintainers Committee
 TRANSP:OPAQUE
-UID:040000008200E00074C5B7101A82E00800000000305F227902E5D701000000000000000
-	010000000B5FEDAD539A93F44854DA7506316E46C
-X-ALT-DESC;FMTTYPE=text/html:<html><head></head><body lang=EN-US link="#0563C1"
-	vlink="#954F72" style='word-wrap:break-word'><h2>This committee meets at 
-	21:00 UTC on the second Wednesday of every month.</h2><h3>All community 
-	members are welcome to attend.</h3>
-	<div><p class=MsoNormal><span style='color:#5F5F5F'>______________________
-	__________________________________________________________</span> </p><
-	/div><div><div style='margin-top:.25in\;margin-bottom:15.0pt'><p class=Mso
-	Normal><span style='font-size:18.0pt\;font-family:"Segoe UI"\,sans-serif\;
-	color:#252424'>Microsoft Teams meeting</span><span style='font-family:"Seg
-	oe UI"\,sans-serif\;color:#252424'> </span></p></div><div style
-	='margin-bottom:15.0pt'><div><p class=MsoNormal><b><span style='font-size:
-	10.5pt\;font-family:"Segoe UI"\,sans-serif\;color:#252424'>Join on your co
-	mputer or mobile app</span></b><b><span style='font-family:"Segoe UI"\,san
-	s-serif\;color:#252424'> </span></b></p></div><p class=MsoNorma
-	l><span style='font-family:"Segoe UI"\,sans-serif\;color:#252424'><a href=
-	"https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDljNDcxZjAtY2FkYi
-	00ZTVmLWIzNjktMmVjMzZlYzUxYzJh%40thread.v2/0?context=%7b%22Tid%22%3a%2262f
-	8c8c7-a85b-41d1-ba6b-743495fb8a48%22%2c%22Oid%22%3a%2223d27343-1f69-4338-9
-	0ca-b310792a3e5d%22%7d" target="_blank"><span style='font-size:10.5pt\;fon
-	t-family:"Segoe UI Semibold"\,sans-serif\;color:#6264A7'>Click here to joi
-	n the meeting</span></a> </span></p></div><div style='margin-to
-	p:15.0pt\;margin-bottom:.25in'></div></div><div><p class=MsoNormal><s
-	pan style='color:#5F5F5F'>________________________________________________
-	________________________________</span> </p></div><p class=MsoN
-	ormal></p></div></body></html>
+UID:040000008200E00074C5B7101A82E0080000000030CC25087A4AD801000000000000000
+	01000000029D2E0A95DD746458FC4B83EF30F35A7
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta name="Gener
+	ator" content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font D
+	efinitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5
+	 3 5 4 6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2
+	 2 2 4 3 2 4\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2 11 5 
+	2 4 2 4 2 2 3\;}\n@font-face\n	{font-family:"Segoe UI Semibold"\;\n	panose
+	-1:2 11 7 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoN
+	ormal\, div.MsoNormal\n	{margin:0in\;\n	font-size:11.0pt\;\n	font-family:"
+	Calibri"\,sans-serif\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:
+	99\;\n	color:#0563C1\;\n	text-decoration:underline\;}\nspan.EmailStyle18\n
+		{mso-style-type:personal-compose\;\n	font-family:"Calibri"\,sans-serif\;\
+	n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	fo
+	nt-size:10.0pt\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0i
+	n 1.0in 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></sty
+	le><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" 
+	/>\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit
+	">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--><
+	/head><body lang="EN-US" link="#0563C1" vlink="#954F72" style="word-wrap:b
+	reak-word"><div class="WordSection1"><p class="MsoNormal"><b>.NET Maintain
+	ers Committee<o:p></o:p></b></p><p class="MsoNormal"><b><o:p>&nbsp\;</o:p>
+	</b></p><p class="MsoNormal">Occurs the second Wednesday of each month fro
+	m 5:00PM to 6:PM EST (9PM UTC)<o:p></o:p></p><p class="MsoNormal"><o:p>&nb
+	sp\;</o:p></p><p class="MsoNormal"><i>Please disregard/delete any other it
+	eration of this meeting moving forward<o:p></o:p></i></p><p class="MsoNorm
+	al"><o:p>&nbsp\;</o:p></p><div><p class="MsoNormal"><span style="color:#5F
+	5F5F">____________________________________________________________________
+	____________</span> <o:p></o:p></p></div><div><div style="margin-top:.25in
+	\;margin-bottom:15.0pt"><p class="MsoNormal"><span style="font-size:18.0pt
+	\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424">Microsoft
+	 Teams meeting</span><span style="font-family:&quot\;Segoe UI&quot\;\,sans
+	-serif\;color:#252424"> <o:p></o:p></span></p></div><div style="margin-bot
+	tom:15.0pt"><div><p class="MsoNormal"><b><span style="font-size:10.5pt\;fo
+	nt-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424">Join on your 
+	computer or mobile app</span></b><b><span style="font-family:&quot\;Segoe 
+	UI&quot\;\,sans-serif\;color:#252424"> <o:p></o:p></span></b></p></div><p 
+	class="MsoNormal"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-se
+	rif\;color:#252424"><a href="https://teams.microsoft.com/l/meetup-join/19%
+	3ameeting_ZGU5NWZjYTItOTFiZi00OWQyLWExYTItMWQ4ZWM0YzhlZTA4%40thread.v2/0?c
+	ontext=%7b%22Tid%22%3a%22f0bdbbf2-cd76-4967-8c4c-50a802746912%22%2c%22Oid%
+	22%3a%2233e33123-f641-455f-8467-58a715c2da80%22%7d" target="_blank"><span 
+	style="font-size:10.5pt\;font-family:&quot\;Segoe UI Semibold&quot\;\,sans
+	-serif\;color:#6264A7">Click here to join the meeting</span></a> <o:p></o:
+	p></span></p></div><div style="margin-bottom:3.0pt"><div style="margin-bot
+	tom:3.0pt"><p class="MsoNormal"><b><span style="font-size:10.5pt\;font-fam
+	ily:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424">Or call in (audio o
+	nly)</span></b><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif
+	\;color:#252424"> <o:p></o:p></span></p></div><div style="margin-bottom:3.
+	0pt"><p class="MsoNormal"><span style="font-family:&quot\;Segoe UI&quot\;\
+	,sans-serif\;color:#252424"><a href="tel:+19787466057\,\,580849884# "><spa
+	n style="font-size:10.5pt\;color:#6264A7">+1 978-746-6057\,\,580849884#</s
+	pan></a> </span><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI
+	&quot\;\,sans-serif\;color:#252424">&nbsp\; United States\, Lowell </span>
+	<span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424
+	"><o:p></o:p></span></p></div></div><p class="MsoNormal"><span style="font
+	-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#25242
+	4">Phone Conference ID: </span><span style="font-size:12.0pt\;font-family:
+	&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424">580 849 884# </span><sp
+	an style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"><
+	o:p></o:p></span></p><div style="margin-bottom:15.0pt"><p class="MsoNormal
+	"><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#2524
+	24"><a href="https://dialin.teams.microsoft.com/e8373667-7b2c-45e6-90f5-75
+	a31c2d6ee0?id=580849884" target="_blank"><span style="font-size:10.5pt\;co
+	lor:#6264A7">Find a local number</span></a> | <a href="https://mysettings.
+	lync.com/pstnconferencing" target="_blank"><span style="font-size:10.5pt\;
+	color:#6264A7">Reset PIN</span></a> <o:p></o:p></span></p></div><div style
+	="margin-top:15.0pt\;margin-bottom:.25in"><p class="MsoNormal"><span style
+	="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"><a href="
+	https://aka.ms/JoinTeamsMeeting" target="_blank"><span style="font-size:10
+	.5pt\;color:#6264A7">Learn More</span></a> | <a href="https://teams.micros
+	oft.com/meetingOptions/?organizerId=33e33123-f641-455f-8467-58a715c2da80&a
+	mp\;tenantId=f0bdbbf2-cd76-4967-8c4c-50a802746912&amp\;threadId=19_meeting
+	_ZGU5NWZjYTItOTFiZi00OWQyLWExYTItMWQ4ZWM0YzhlZTA4@thread.v2&amp\;messageId
+	=0&amp\;language=en-US" target="_blank"><span style="font-size:10.5pt\;col
+	or:#6264A7">Meeting options</span></a> <o:p></o:p></span></p></div></div><
+	div><p class="MsoNormal"><span style="color:#5F5F5F">_____________________
+	___________________________________________________________</span> <o:p></
+	o:p></p></div><p class="MsoNormal"><o:p>&nbsp\;</o:p></p></div></body></ht
+	ml>
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
 X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MS-OLK-AUTOFILLLOCATION:FALSE
-X-MS-OLK-CONFTYPE:0
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY

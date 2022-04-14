@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
 VERSION:2.0
-METHOD:REQUEST
+METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VTIMEZONE
 TZID:Central Standard Time
@@ -19,13 +19,6 @@ TZOFFSETTO:-0500
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-ATTENDEE;CN="Madison Hardy";RSVP=TRUE:invalid:nomail
-ATTENDEE;CN="Rob Prouse (.NET Foundation)";RSVP=TRUE:invalid:nomail
-ATTENDEE;CN="Mattias Karlsson (.NET Foundation)";RSVP=TRUE:invalid:nomail
-ATTENDEE;CN="Tom Pappas (.NET Foundation)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:i
-	nvalid:nomail
-ATTENDEE;CN="Madison Hardy";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:MHardy@vi
-	rtualinc.com
 CLASS:PUBLIC
 CREATED:20220408T144234Z
 DESCRIPTION:.NET Maintainers Committee\n\n \n\nOccurs the second Wednesday 

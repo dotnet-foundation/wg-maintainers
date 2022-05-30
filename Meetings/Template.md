@@ -38,6 +38,7 @@
 ### Virtual Inc Staff Observers
 
 - Tom Pappas
+- Madison Hardy
 - Nicole Miller
 
 ## Slides

@@ -25,6 +25,7 @@
 - Nils Andresen - @nils-a
 - Pascal Berger - @pascalberger
 - Robin Krom - @Lakritzator
+- Rob Mensching - @robmen
 - Simon Cropp - @SimonCropp
 - Tanner Gooding - @tannergooding
 - Tomáš Herceg - @tomasherceg

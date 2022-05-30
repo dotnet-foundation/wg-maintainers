@@ -7,9 +7,9 @@
 - Pascal Berger - @pascalberger
 - Michael Hawker - @michael-hawker
 - Glenn Watson - @glennawatson
-- Rob Mensching
+- Rob Mensching - @robmen
 - Chris Martinez
-- Simon Cropp
+- Simon Cropp - @SimonCropp
 
 ### Virtual Inc Staff Observers
 

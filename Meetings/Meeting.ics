@@ -3,26 +3,11 @@ PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
 VERSION:2.0
 METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
-BEGIN:VTIMEZONE
-TZID:Central Standard Time
-BEGIN:STANDARD
-DTSTART:16011104T020000
-RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
-END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:16010311T020000
-RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
-END:DAYLIGHT
-END:VTIMEZONE
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20220408T144234Z
 DESCRIPTION:.NET Maintainers Committee\n\n \n\nOccurs the second Wednesday 
-	of each month from 5:00PM to 6:PM EST (9PM UTC)\n\n \n\nPlease disregard/d
+	of each month from 8:00PM to 9:00PM UTC\n\n \n\nPlease disregard/d
 	elete any other iteration of this meeting moving forward\n\n \n\n_________
 	_______________________________________________________________________ \n
 	\nMicrosoft Teams meeting \n\nJoin on your computer or mobile app \n\nClic
@@ -40,9 +25,8 @@ DESCRIPTION:.NET Maintainers Committee\n\n \n\nOccurs the second Wednesday
 	hreadId=19_meeting_ZGU5NWZjYTItOTFiZi00OWQyLWExYTItMWQ4ZWM0YzhlZTA4@thread
 	.v2&messageId=0&language=en-US>  \n\n_____________________________________
 	___________________________________________ \n\n \n\n
-DTEND;TZID="Central Standard Time":20220413T163000
-DTSTAMP:20220407T172417Z
-DTSTART;TZID="Central Standard Time":20220413T160000
+DTSTART:20220413T200000Z
+DTEND:20220413T210000Z
 LAST-MODIFIED:20220408T144234Z
 LOCATION:Microsoft Teams Meeting
 ORGANIZER;CN="Madison Hardy":invalid:nomail
@@ -77,7 +61,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml"
 	reak-word"><div class="WordSection1"><p class="MsoNormal"><b>.NET Maintain
 	ers Committee<o:p></o:p></b></p><p class="MsoNormal"><b><o:p>&nbsp\;</o:p>
 	</b></p><p class="MsoNormal">Occurs the second Wednesday of each month fro
-	m 5:00PM to 6:PM EST (9PM UTC)<o:p></o:p></p><p class="MsoNormal"><o:p>&nb
+	m 8:00PM to 9:00PM UTC<o:p></o:p></p><p class="MsoNormal"><o:p>&nb
 	sp\;</o:p></p><p class="MsoNormal"><i>Please disregard/delete any other it
 	eration of this meeting moving forward<o:p></o:p></i></p><p class="MsoNorm
 	al"><o:p>&nbsp\;</o:p></p><div><p class="MsoNormal"><span style="color:#5F

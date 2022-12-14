@@ -30,7 +30,6 @@
 - Tanner Gooding - @tannergooding
 - Tomáš Herceg - @tomasherceg
 - Tony Qu - @tonyqus
-- Sean Killeen - GitHub [@SeanKilleen](https://github.com/SeanKilleen), Twitter [@sjkilleen](https://twitter.com/sjkilleen)
 
 ## Recording
 
@@ -38,9 +37,9 @@
 
 ### Virtual Inc Staff Observers
 
-- Tom Pappas
 - Madison Hardy
 - Nicole Miller
+- Stacey Ramsey
 
 ## Slides
 

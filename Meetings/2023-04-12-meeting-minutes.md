@@ -11,7 +11,7 @@
 
 ## Recording
 
-[2023-04-12 Meeting Recording]()
+[2023-04-12 Meeting Recording](https://virtualinc-my.sharepoint.com/:v:/p/sramsey/EQk56oXhsbZMtI1SZzucL6QBpJxm2vUq6SbXIHKfvmeP7g)
 
 ### Virtual Inc Staff Observers
 

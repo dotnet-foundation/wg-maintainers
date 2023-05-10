@@ -7,7 +7,7 @@ BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20220408T144234Z
 DESCRIPTION:.NET Maintainers Committee\n\n \n\nOccurs the second Wednesday 
-	of each month from 8:00PM to 9:00PM UTC\n\n \n\nPlease disregard/d
+	of each month from 7:00PM to 8:00PM UTC\n\n \n\nPlease disregard/d
 	elete any other iteration of this meeting moving forward\n\n \n\n_________
 	_______________________________________________________________________ \n
 	\nMicrosoft Teams meeting \n\nJoin on your computer or mobile app \n\nClic
@@ -25,9 +25,9 @@ DESCRIPTION:.NET Maintainers Committee\n\n \n\nOccurs the second Wednesday
 	hreadId=19_meeting_ZGU5NWZjYTItOTFiZi00OWQyLWExYTItMWQ4ZWM0YzhlZTA4@thread
 	.v2&messageId=0&language=en-US>  \n\n_____________________________________
 	___________________________________________ \n\n \n\n
-DTSTART:20220413T200000Z
-DTEND:20220413T210000Z
-LAST-MODIFIED:20220408T144234Z
+DTSTART:20220413T190000Z
+DTEND:20220413T200000Z
+LAST-MODIFIED:20230510T144234Z
 LOCATION:Microsoft Teams Meeting
 ORGANIZER;CN="Madison Hardy":invalid:nomail
 PRIORITY:5

@@ -8,7 +8,7 @@ To join this group, please [create an issue](https://github.com/dotnet-foundatio
 
 ## Monthly Meeting
 
-This committee meets at 20:00 UTC on the second Wednesday of every month. All community members are welcome to attend.
+This committee meets at 19:00 UTC on the second Wednesday of every month. All community members are welcome to attend.
 
 [Click here to join the meeting in Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGU5NWZjYTItOTFiZi00OWQyLWExYTItMWQ4ZWM0YzhlZTA4%40thread.v2/0?context=%7b%22Tid%22%3a%22f0bdbbf2-cd76-4967-8c4c-50a802746912%22%2c%22Oid%22%3a%2233e33123-f641-455f-8467-58a715c2da80%22%7d)
 

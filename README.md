@@ -1,18 +1,18 @@
 # Project Maintainers' Working Group
 
+## Committee Merger
+
+The Maintainers' Committee was founded to hear the concerns and suggestions of the Foundation's member projects. We feel that the mandate of the committee has been fullfilled and that our current discussions overlap with the mandate of the [Project Committee](https://github.com/dotnet-foundation/projects). As a result, the board has voted to merge the Maintainers' Committee back into the Project Committee.
+
+We encourage all members of the committee to attend the [Project Committee](https://github.com/dotnet-foundation/projects) meetings and continue the discussion there. Thank you for all your help and ideas.
+
+## About
+
 Welcome to the project maintainers' working group and committee. This group is intended to allow project maintainers to voice their concerns and make suggestions to the .NET Foundation Board about the support they need in maintaining their projects.
-
-The first goal of this group will be to define their charter and present it to the board for approval. We encourage all project maintainers and contributors that have ideas on how the foundation can better support their projects to join and contribute.
-
-To join this group, please [create an issue](https://github.com/dotnet-foundation/wg-maintainers/issues/new/choose) in this repository and we will add you.
 
 ## Monthly Meeting
 
-This committee meets at 20:00 UTC on the second Wednesday of every month. All community members are welcome to attend.
-
-[Click here to join the meeting in Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGU5NWZjYTItOTFiZi00OWQyLWExYTItMWQ4ZWM0YzhlZTA4%40thread.v2/0?context=%7b%22Tid%22%3a%22f0bdbbf2-cd76-4967-8c4c-50a802746912%22%2c%22Oid%22%3a%2233e33123-f641-455f-8467-58a715c2da80%22%7d)
-
-[Click here to get the ICS](./Meetings/Meeting.ics)
+This committee no longer meets.
 
 ## Committee Members (name order)
 
